@@ -3,12 +3,13 @@
   "id": "noanglebrackets",
   "version": "${version}",
   "name": "NoAngleBrackets",
-  "description": "Removes the <> around your name in chat!",
+  "description": "Removes the <> around names in chat!",
   "authors": [
     "Flytre"
   ],
   "contact": {
-    "website": "https://www.flytre.net"
+    "website": "https://www.flytre.net",
+    "sources" : "https://github.com/Flytre/NoAngledBrackets"
   },
   "license": "MIT",
   "icon": "assets/NoAngleBrackets/icon.png",
