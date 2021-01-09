@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.flytre.noanglebrackets.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "TranslatableTextMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
